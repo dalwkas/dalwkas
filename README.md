@@ -1,6 +1,6 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-👩‍🦱 I'm a Frontend Developer Jr focusing on my studies!
+I'm a Frontend Developer Jr focusing on my studies!
 
 <br/>
 
