@@ -34,4 +34,4 @@ You can find me here too 👇
  <br/>
  <br>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaconde&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwkas-gabriel&show_icons=true)
