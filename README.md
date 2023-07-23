@@ -7,7 +7,7 @@
 You can find me here too 👇
 
 <div>
-<a href="https://www.linkedin.com/in/juliana-conde-b2385362/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-gabriel-barros/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 </div>
